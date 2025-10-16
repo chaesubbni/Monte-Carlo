@@ -6,4 +6,6 @@
 
 
 ### 구한 L, C를 통해 f 분포를 몬테카를로로 추정(f는 공진 주파수)
-<img width="485" height="373" alt="image" src="https://github.com/user-attachments/assets/b8ff9937-c7ed-4d10-bd62-1cdc3ba075a5" /> <img width="480" height="368" alt="image" src="https://github.com/user-attachments/assets/db2b868a-b44e-4b83-903c-adbc2a08a598" />
+<img width="415" height="319" alt="image" src="https://github.com/user-attachments/assets/c0a71a1b-6b19-4fac-af47-d826cafd455a" /> <img width="398" height="305" alt="image" src="https://github.com/user-attachments/assets/297f344e-90d4-4caa-9ee6-9d95e6984501" />
+
+
